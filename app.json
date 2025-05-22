@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "16d9c47d-3a88-4dfd-b2bb-b330ee2dd852"
+      }
+    },
+    "owner": "kim_enteria_rl2001"
   }
 }
