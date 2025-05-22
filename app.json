@@ -17,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "bisit3_1.group_9"
+      "package": "bisit31.group9"
     },
     "web": {
       "bundler": "metro",
